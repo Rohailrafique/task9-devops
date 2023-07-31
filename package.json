@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Rohailrafique/task9-devops#readme",
   "devDependencies": {
-    "jest": "^29.6.2"
+    "jest": "^29.6.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
   }
 }

@@ -18,7 +18,7 @@ jobs:
         run: npm install
 
       - name: Build
-        run: npm build
+        run: npm run build
 
   test:
     name: Test
@@ -28,7 +28,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Install Node.js and dependencies
         run: npm install

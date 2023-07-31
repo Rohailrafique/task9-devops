@@ -1,0 +1,22 @@
+{
+  "name": "task9-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohailrafique/task9-devops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohailrafique/task9-devops/issues"
+  },
+  "homepage": "https://github.com/Rohailrafique/task9-devops#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
